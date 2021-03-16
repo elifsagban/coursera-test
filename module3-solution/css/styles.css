@@ -1,0 +1,16 @@
+.navbar-brand  h1{
+    margin: 0 ;
+}
+
+.container-fluid .row > div{
+    background-color: gray;
+    height: 300px;
+}
+.row >div > h2{
+    padding-top: 2%;
+}
+
+.col-centered {
+    margin-right: auto;
+    margin-left: auto;
+  }
